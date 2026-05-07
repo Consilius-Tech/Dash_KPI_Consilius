@@ -28,8 +28,8 @@ def load_data():
         "Ana Lima", "Bruno Souza", "Carla Dias", "Diego Melo", "Ester Nunes",
         "Felipe Costa", "Gabi Torres", "Hugo Silva"
     ]
-    areas = ["Projetos", "Marketing", "Financeiro", "RH", "Jurídico", "TI", "Projetos", "Marketing"]
-    cargos = ["Trainee", "Analista", "Analista", "Diretor", "Trainee", "Analista", "Diretor", "Trainee"]
+    areas = ["Office", "BASE", "FACE"]
+    cargos = ["Diretor", "Funcionário"]
 
     data = {
         "Membro": membros,

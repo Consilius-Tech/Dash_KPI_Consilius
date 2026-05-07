@@ -1,0 +1,11 @@
+Autor: Leonardo Chianca
+Data: 07/05/26
+
+Modificações pra fazer no app de Dashboards com KPI
+
+1 - Funcão de "encolher" / "expandir" a sidebar
+2 - Emoji de xadrez em cima de "Consilius" no canto superior esquerdo
+3 - Reduzir o campo de "Áreas" pra só Office, Base e FACE ✅
+4 - Mudar a visualização de "Presença vs Taxa de Entrega", tirando o gráfico pra ficar menos estatístico
+5 - Reduzir a lista "Cargos" pra somente "Funcionário" e "Diretor" ou tirar totalmente a lista ✅
+6 - Ajustar bugs de vizualização ao utilizar o programa em light Modificações
