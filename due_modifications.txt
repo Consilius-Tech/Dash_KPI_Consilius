@@ -8,4 +8,6 @@ Modificações pra fazer no app de Dashboards com KPI
 3 - Reduzir o campo de "Áreas" pra só Office, Base e FACE ✅
 4 - Mudar a visualização de "Presença vs Taxa de Entrega", tirando o gráfico pra ficar menos estatístico
 5 - Reduzir a lista "Cargos" pra somente "Funcionário" e "Diretor" ou tirar totalmente a lista ✅
-6 - Ajustar bugs de vizualização ao utilizar o programa em light Modificações
+6 - Ajustar bugs de vizualização ao utilizar o programa em light mode
+7 - Na tabela de "Tabela de KPIs Completa" o primeiro membro aparece como sendo o número 0, mudar isso pra começar em 1
+8 - Na parte de "Adicionar membros" mudar as opções na variável "ar" pra somente ["Office", "BASE", "FACE"] e as opções da variável "cg" pra ["Diretor", "Funcionário"]
