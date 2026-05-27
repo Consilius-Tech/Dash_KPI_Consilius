@@ -3,11 +3,21 @@ Data: 07/05/26
 
 Modificações pra fazer no app de Dashboards com KPI
 
-1 - Funcão de "encolher" / "expandir" a sidebar
-2 - Emoji de xadrez em cima de "Consilius" no canto superior esquerdo
+1 - Funcão de "encolher" / "expandir" a sidebar ✅
+2 - Emoji de xadrez em cima de "Consilius" no canto superior esquerdo ✅
 3 - Reduzir o campo de "Áreas" pra só Office, Base e FACE ✅
-4 - Mudar a visualização de "Presença vs Taxa de Entrega", tirando o gráfico pra ficar menos estatístico
+4 - Mudar a visualização de "Presença vs Taxa de Entrega", tirando o gráfico pra ficar menos estatístico ✅
 5 - Reduzir a lista "Cargos" pra somente "Funcionário" e "Diretor" ou tirar totalmente a lista ✅
-6 - Ajustar bugs de vizualização ao utilizar o programa em light mode
-7 - Na tabela de "Tabela de KPIs Completa" o primeiro membro aparece como sendo o número 0, mudar isso pra começar em 1
-8 - Na parte de "Adicionar membros" mudar as opções na variável "ar" pra somente ["Office", "BASE", "FACE"] e as opções da variável "cg" pra ["Diretor", "Funcionário"]
+6 - Ajustar bugs de vizualização ao utilizar o programa em light mode ✅
+7 - Na tabela de "Tabela de KPIs Completa" o primeiro membro aparece como sendo o número 0, mudar isso pra começar em 1 ✅
+8 - Na parte de "Adicionar membros" mudar as opções na variável "ar" pra somente ["Office", "BASE", "FACE"] e as opções da variável "cg" pra ["Diretor", "Funcionário"] ✅
+9 - Na parte "Selecione um membro" do KPI de radar, tirar as opções de selecionar membros separados e deixar somente possível selecionar as 
+áreas separadamente (BASE, Office, FACE). Ex: "Selecione uma área".
+    Cada área selecionada deve mostrar rastreamentos diferentes, sendo elas:
+    BASE: (1- Entrega de excelência),(2- Comprometimento),(3- Proatividade) e (4- Capacitação)
+    Office: (1- Organização),(2- Entrega),(3- Eficiência operacional),(4- )
+    FACE: (1- Prospecção),(2- Reuniões agendadas),(3- Reuniões feitas),(4- Postagem) e (5- )
+10 - Tirar tela de login
+
+Como podemos implementar esses pontos que não estão com o check dentro desse projeto que está no repositório? Preciso de uma ideia para elaborar o plano de implementação,
+me ajude também com isso. NÃO CODE NADA. No A.I. slop!
