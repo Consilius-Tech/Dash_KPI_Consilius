@@ -16,8 +16,8 @@ Modificações pra fazer no app de Dashboards com KPI
     Cada área selecionada deve mostrar rastreamentos diferentes, sendo elas:
     BASE: (1- Entrega de excelência),(2- Comprometimento),(3- Proatividade) e (4- Capacitação)
     Office: (1- Organização),(2- Entrega),(3- Eficiência operacional),(4- )
-    FACE: (1- Prospecção),(2- Reuniões agendadas),(3- Reuniões feitas),(4- Postagem) e (5- )
-10 - Tirar tela de login
+    FACE: (1- Prospecção, Leads, Clientes fechados),(2- Reuniões agendadas),(3- Reuniões feitas),(4- Postagem) e (5- ) (✅)
+10 - Tirar tela de login (✅)
 
 Como podemos implementar esses pontos que não estão com o check dentro desse projeto que está no repositório? Preciso de uma ideia para elaborar o plano de implementação,
 me ajude também com isso. NÃO CODE NADA. No A.I. slop!
